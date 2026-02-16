@@ -29,14 +29,10 @@ s = g.read().splitlines()
 
 def home():
     print('''
-
-
-
 -------------- เมนู ---------------   
 「+」Tiktok    : Thaikhun_56                      
 「+」Intragram : Toidumdum                      
-    
-    ''')
+     ''')
     phone = input(" \x1b[96mเบอร์โทร  : \x1b[92m")
     
     if int(phone) <= 99999999 or int(phone) >= 999999999:
