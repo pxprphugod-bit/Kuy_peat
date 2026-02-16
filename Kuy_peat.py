@@ -995,6 +995,4 @@ def SMS(phone, jam):
         threading.submit(api97, phone)
         threading.submit(call2, phone)
         
-os.system("clear")
-print(" Credit Script_DEV")
-print("「+」Youtube : Script_DEV ")
+(home)
